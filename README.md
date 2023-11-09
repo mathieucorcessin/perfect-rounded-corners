@@ -1,2 +1,2 @@
 # Perfect nested rounded corners
-Inner radius = Outer radius - Outer thickness/2
+Inner radius = Outer radius - Padding/2
